@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 💫 About Me:
+ 💫 About Me:
 🔭 I’m currently working on Java projects, Full Stack Web Development, and problem-solving using Data Structures & Algorithms<br><br>👯 I’m looking to collaborate on Java-based applications, web development projects, and beginner-friendly open-source contributions<br><br>🤝 I’m looking for help with backend development, project optimization, and industry-level coding practices<br><br>🌱 I’m currently learning Advanced Java, SQL, Cloud Computing, and placement-focused DSA<br><br>💬 Ask me about Java, OOP concepts, basic web development, and coding problem-solving<br><br>⚡ Fun fact: I believe writing clean logic is more important than writing long code
 
 
