@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cyber-banner.svg" alt="Priyanshi Gupta cyberpunk profile banner" width="100%" />
+<img src="./cyber-banner.svg" alt="Priyanshi cyberpunk profile banner" width="100%">
 
 <img src="profile.png" alt="Priyanshi Gupta profile photo" width="150" />
 
