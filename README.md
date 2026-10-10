@@ -5,7 +5,9 @@
 
   <h1>💜 PRIYANSHI GUPTA</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=B266FF&center=true&vCenter=true&width=600&lines=Java+Developer;AI+%26+Data+Science+Enthusiast;Full+Stack+Learner;Problem+Solver+%F0%9F%92%9C" alt="Typing SVG"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Java+Developer+%F0%9F%92%9C;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer+in+Progress;Problem+Solver;Building+Cool+Projects" alt="Typing SVG"/>
+
 
   <p>
     <img src="https://img.shields.io/badge/PROFILE-NEON_MODE-8A2BE2?style=for-the-badge&labelColor=080B1B" alt="Neon Profile"/>
