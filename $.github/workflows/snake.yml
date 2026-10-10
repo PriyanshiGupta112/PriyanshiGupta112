@@ -21,9 +21,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: PriyanshiGupta112
-          outputs: |
-            dist/github-snake.svg?color_snake=%23A855F7&color_dots=%23EDE9FE,%23DDD6FE,%23C4B5FD,%23A78BFA,%238B5CF6
-
+         outputs: |
+          dist/github-snake.svg?color_snake=%23A855F7&color_dots=%23EDE9FE,%23DDD6FE,%23C4B5FD,%23A78BFA,%238B5CF6
+          
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
