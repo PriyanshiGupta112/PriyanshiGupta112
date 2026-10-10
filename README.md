@@ -1,148 +1,94 @@
-
 <div align="center">
 
-  <img src="profile.png" width="170" alt="Priyanshi's Profile Photo"/>
+<img src="assets/cyber-banner.svg" alt="Priyanshi Gupta cyberpunk profile banner" width="100%" />
 
-  <h1>💜 PRIYANSHI GUPTA</h1>
+<img src="profile.png" alt="Priyanshi Gupta profile photo" width="150" />
 
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Java+Developer+%F0%9F%92%9C;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer+in+Progress;Problem+Solver;Building+Cool+Projects" alt="Typing SVG"/>
+# 💜 PRIYANSHI GUPTA
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Java+Developer;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer+in+Progress;Problem+Solver;Building+Cool+Projects" alt="Animated typing text" />
 
-  <p>
-    <img src="https://img.shields.io/badge/PROFILE-NEON_MODE-8A2BE2?style=for-the-badge&labelColor=080B1B" alt="Neon Profile"/>
-    <img src="https://img.shields.io/badge/STATUS-LEARNING_&_BUILDING-00D9FF?style=for-the-badge&labelColor=080B1B" alt="Status"/>
-  </p>
+<img src="https://img.shields.io/badge/PROFILE-NEON_MODE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Profile neon mode" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Learning and building" />
 
 </div>
 
 ---
 
-<div align="center">
-
-  <h2>💠 SYSTEM.INFO</h2>
-
-  <table>
-    <tr>
-      <td><b>👩‍💻 ROLE</b></td>
-      <td>Java Developer</td>
-    </tr>
-    <tr>
-      <td><b>🎯 FOCUS</b></td>
-      <td>AI • Data Science • Full Stack • DSA</td>
-    </tr>
-    <tr>
-      <td><b>⚙️ CORE</b></td>
-      <td>Python • Java • MySQL</td>
-    </tr>
-    <tr>
-      <td><b>🚀 STATUS</b></td>
-      <td>Learning & Building</td>
-    </tr>
-    <tr>
-      <td><b>🧩 INTERESTS</b></td>
-      <td>Problem Solving • New Technologies</td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-## 💫 ABOUT ME
-
-- 🔭 Working on Java projects, Full Stack Web Development, and problem-solving using Data Structures & Algorithms.
-- 👯 Looking to collaborate on Java applications, web development, and beginner-friendly open-source projects.
-- 🤝 Interested in backend development, project optimization, and industry-level coding practices.
-- 🌱 Learning Advanced Java, SQL, Cloud Computing, AI, Data Science, and placement-focused DSA.
-- 💬 Ask me about Java, OOP concepts, basic web development, and coding problem-solving.
-- ⚡ Fun fact: I believe writing clean logic is more important than writing long code.
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-  <a href="https://instagram.com/_priyanshi_1108">
-    <img src="https://img.shields.io/badge/Instagram-B266FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/priyanshi-gupta-92ab82362/">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-</div>
-
----
-
-## 💻 TECH STACK
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-B266FF?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Apache-6A0DAD?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-  <img src="https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-
-</div>
-
----
-
-## 🚀 PROJECT ZONE
-
-<div align="center">
+## `// SYSTEM.INFO`
 
 <table>
-  <tr>
-    <td align="center">
-      <h3>💻 LeetCode Problems</h3>
-      <p>My coding journey through Java, Data Structures, Algorithms, and problem-solving.</p>
-      <a href="https://github.com/PriyanshiGupta112/Leetcode_Problems">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View LeetCode repository"/>
-      </a>
-    </td>
-  </tr>
+<tr><td><b>ROLE</b></td><td>Student Developer</td></tr>
+<tr><td><b>FOCUS</b></td><td>Java · Problem Solving · AI & Data Science</td></tr>
+<tr><td><b>CORE</b></td><td>Python · Java · MySQL</td></tr>
+<tr><td><b>STATUS</b></td><td>Learning, building, improving</td></tr>
+<tr><td><b>INTERESTS</b></td><td>Software Development · AI · Creative Tech</td></tr>
 </table>
 
-</div>
+## `// ABOUT_ME`
 
-## 📊 GITHUB STATISTICS
+- 👩‍💻 Learning by building and solving problems.
+- ☕ Practising Java, data structures, and algorithms.
+- 🤖 Interested in AI, data science, and full-stack development.
+- 🚀 Improving one project and one problem at a time.
+
+## `// CONNECT`
+
+<p>
+<a href="https://instagram.com/_priyanshi_1108"><img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/priyanshi-gupta-92ab82362/"><img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/PriyanshiGupta112"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+## `// TECH_STACK`
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+## `// PROJECT_ZONE`
+
+<table>
+<tr><td>
+<h3>💻 LeetCode Problems</h3>
+<p>My coding journey through Java, Data Structures, Algorithms, and problem-solving.</p>
+<a href="https://github.com/PriyanshiGupta112/Leetcode_Problems"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Open LeetCode repository" /></a>
+</td></tr>
+</table>
+
+## `// GITHUB_STATS`
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PriyanshiGupta112&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PriyanshiGupta112&show_icons=true&hide_border=true&bg_color=0B1020&title_color=C084FC&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiGupta112&layout=compact&hide_border=true&bg_color=0B1020&title_color=C084FC&text_color=E2E8F0" alt="Top languages" />
 
-  <img width="49%" src="https://streak-stats.demolab.com/?user=PriyanshiGupta112&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
-
-  <br/><br/>
-
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiGupta112&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=PriyanshiGupta112&hide_border=true&background=0B1020&ring=C084FC&fire=22D3EE&currStreakLabel=C084FC&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub streak" />
 
 </div>
 
----
+## `// CONTRIBUTION_SNAKE`
 
-## 🐍 CONTRIBUTION SNAKE
-<!-- Snake Animation -->
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriyanshiGupta112/PriyanshiGupta112/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriyanshiGupta112/PriyanshiGupta112/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PriyanshiGupta112/PriyanshiGupta112/output/github-snake.svg">
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/PriyanshiGupta112/PriyanshiGupta112/output/github-snake.svg" width="100%">
 </picture>
 
+</div>
 
 ---
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=PriyanshiGupta112&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=PriyanshiGupta112&style=for-the-badge&color=8A2BE2" alt="Profile views" />
 
-  <h3>💜 KEEP LEARNING • KEEP BUILDING • KEEP GROWING 💜</h3>
-
-  <img src="https://img.shields.io/badge/MADE_WITH-CURIOSITY-8A2BE2?style=flat-square" alt="Made with curiosity"/>
+**`> Always learning. Always building. System online. 💜`**
 
 </div>
-```

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+<title id="title">Priyanshi Gupta cyberpunk profile banner</title>
+<desc id="desc">Animated neon purple and cyan terminal-style banner.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B18"/><stop offset=".55" stop-color="#11102C"/><stop offset="1" stop-color="#071A2C"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#A855F7"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#7C3AED" stroke-opacity=".18" stroke-width=".7"/></pattern>
+</defs>
+<rect width="1000" height="190" rx="14" fill="url(#bg)"/>
+<rect width="1000" height="190" rx="14" fill="url(#grid)"/>
+<rect x="7" y="7" width="986" height="176" rx="11" fill="none" stroke="url(#edge)" stroke-width="2" filter="url(#glow)"/>
+<circle cx="29" cy="27" r="5" fill="#FB7185"/><circle cx="47" cy="27" r="5" fill="#FBBF24"/><circle cx="65" cy="27" r="5" fill="#34D399"/>
+<text x="88" y="31" fill="#94A3B8" font-family="monospace" font-size="12">PRIYANSHI@GITHUB:~</text>
+<path d="M25 49H975" stroke="#334155" stroke-width="1"/>
+<text x="500" y="91" text-anchor="middle" font-family="monospace" font-weight="700" font-size="35" fill="#F5F3FF" filter="url(#glow)">PRIYANSHI GUPTA</text>
+<text x="500" y="119" text-anchor="middle" font-family="monospace" font-size="15" fill="#67E8F9">JAVA DEVELOPER  //  AI &amp; DATA SCIENCE</text>
+<text x="500" y="148" text-anchor="middle" font-family="monospace" font-size="12" fill="#C4B5FD">[ LEARNING ]  [ BUILDING ]  [ DEBUGGING ]</text>
+<path d="M22 164H220 M780 164H978" stroke="#22D3EE" stroke-opacity=".8" stroke-width="1.5"/>
+<rect x="22" y="160" width="130" height="8" fill="#A855F7" opacity=".18"><animate attributeName="x" values="22;848;22" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="22" y="160" width="130" height="8" fill="#22D3EE" opacity=".65"><animate attributeName="x" values="22;848;22" dur="6s" repeatCount="indefinite"/></rect>
+<circle cx="965" cy="27" r="3" fill="#22D3EE"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<rect x="14" y="14" width="972" height="162" rx="8" fill="none" stroke="#22D3EE" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".12;.65;.12" dur="3s" repeatCount="indefinite"/></rect>
+</svg>
