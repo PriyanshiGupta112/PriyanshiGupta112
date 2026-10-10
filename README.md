@@ -1,68 +1,137 @@
 
 <div align="center">
-  <img src="profile.png" width="180" alt="Priyanshi's Profile Photo" />
 
-  <h1>💜 Hi, I'm Priyanshi Gupta</h1>
+  <img src="profile.png" width="170" alt="Priyanshi's Profile Photo"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B266FF&center=true&vCenter=true&width=600&lines=Java+Developer+%E2%9C%A8;Full+Stack+Learner+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%9C"
-       alt="Typing SVG" />
+  <h1>💜 PRIYANSHI GUPTA</h1>
 
-  <p>✨ Java Developer | Full Stack Learner | Problem Solver ✨</p>
-</div>
-```
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=B266FF&center=true&vCenter=true&width=600&lines=Java+Developer;AI+%26+Data+Science+Enthusiast;Full+Stack+Learner;Problem+Solver+%F0%9F%92%9C" alt="Typing SVG"/>
 
-## Hi there 👋
-
- 💫 About Me:
-🔭 I’m currently working on Java projects, Full Stack Web Development, and problem-solving using Data Structures & Algorithms<br><br>👯 I’m looking to collaborate on Java-based applications, web development projects, and beginner-friendly open-source contributions<br><br>🤝 I’m looking for help with backend development, project optimization, and industry-level coding practices<br><br>🌱 I’m currently learning Advanced Java, SQL, Cloud Computing, and placement-focused DSA<br><br>💬 Ask me about Java, OOP concepts, basic web development, and coding problem-solving<br><br>⚡ Fun fact: I believe writing clean logic is more important than writing long code
-
-
-## 🌐 Socials:
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-B266FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_priyanshi_1108)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-gupta-92ab82362/)
+  <p>
+    <img src="https://img.shields.io/badge/PROFILE-NEON_MODE-8A2BE2?style=for-the-badge&labelColor=080B1B" alt="Neon Profile"/>
+    <img src="https://img.shields.io/badge/STATUS-LEARNING_&_BUILDING-00D9FF?style=for-the-badge&labelColor=080B1B" alt="Status"/>
+  </p>
 
 </div>
-```
-# 💻 Tech Stack:
-<div align="center">
-
-![C](https://img.shields.io/badge/C-6A0DAD?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-B266FF?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-6A0DAD?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
-```
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=PriyanshiGupta112&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=PriyanshiGupta112&theme=midnight-purple&hide_border=true)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PriyanshiGupta112&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=PriyanshiGupta112&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--//**PriyanshiGupta112/PriyanshiGupta112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <h2>💠 SYSTEM.INFO</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <table>
+    <tr>
+      <td><b>👩‍💻 ROLE</b></td>
+      <td>Java Developer</td>
+    </tr>
+    <tr>
+      <td><b>🎯 FOCUS</b></td>
+      <td>AI • Data Science • Full Stack • DSA</td>
+    </tr>
+    <tr>
+      <td><b>⚙️ CORE</b></td>
+      <td>Python • Java • MySQL</td>
+    </tr>
+    <tr>
+      <td><b>🚀 STATUS</b></td>
+      <td>Learning & Building</td>
+    </tr>
+    <tr>
+      <td><b>🧩 INTERESTS</b></td>
+      <td>Problem Solving • New Technologies</td>
+    </tr>
+  </table>
 
+</div>
+
+---
+
+## 💫 ABOUT ME
+
+- 🔭 Working on Java projects, Full Stack Web Development, and problem-solving using Data Structures & Algorithms.
+- 👯 Looking to collaborate on Java applications, web development, and beginner-friendly open-source projects.
+- 🤝 Interested in backend development, project optimization, and industry-level coding practices.
+- 🌱 Learning Advanced Java, SQL, Cloud Computing, AI, Data Science, and placement-focused DSA.
+- 💬 Ask me about Java, OOP concepts, basic web development, and coding problem-solving.
+- ⚡ Fun fact: I believe writing clean logic is more important than writing long code.
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+  <a href="https://instagram.com/_priyanshi_1108">
+    <img src="https://img.shields.io/badge/Instagram-B266FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/priyanshi-gupta-92ab82362/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+</div>
+
+---
+
+## 💻 TECH STACK
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-B266FF?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Apache-6A0DAD?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+
+</div>
+
+---
+
+## 🚀 PROJECT ZONE
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🤖 AI Image Detection</h3>
+        Exploring AI-generated versus real image detection.
+      </td>
+      <td align="center" width="50%">
+        <h3>💻 Java Projects</h3>
+        Practising Java programming and problem-solving.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>🌐 Full Stack Development</h3>
+        Building web development skills and practical projects.
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PriyanshiGupta112&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
+
+  <img width="49%" src="https://streak-stats.demolab.com/?user=PriyanshiGupta112&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+
+  <br/><br/>
+
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiGupta112&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriyanshiGupta112/PriyanshiGupta112/output/github-snake-dark.svg">
@@ -70,3 +139,15 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/PriyanshiGupta112/PriyanshiGupta112/output/github-snake.svg">
 </picture>
 
+---
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=PriyanshiGupta112&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+  <h3>💜 KEEP LEARNING • KEEP BUILDING • KEEP GROWING 💜</h3>
+
+  <img src="https://img.shields.io/badge/MADE_WITH-CURIOSITY-8A2BE2?style=flat-square" alt="Made with curiosity"/>
+
+</div>
+```
