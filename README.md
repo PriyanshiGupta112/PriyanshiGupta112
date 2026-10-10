@@ -94,28 +94,19 @@
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🤖 AI Image Detection</h3>
-        Exploring AI-generated versus real image detection.
-      </td>
-      <td align="center" width="50%">
-        <h3>💻 Java Projects</h3>
-        Practising Java programming and problem-solving.
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h3>🌐 Full Stack Development</h3>
-        Building web development skills and practical projects.
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center">
+      <h3>💻 LeetCode Problems</h3>
+      <p>My coding journey through Java, Data Structures, Algorithms, and problem-solving.</p>
+      <a href="https://github.com/PriyanshiGupta112/Leetcode_Problems">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View LeetCode repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
----
 
 ## 📊 GITHUB STATISTICS
 
