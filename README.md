@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="profile.png" width="180" alt="Priyanshi's Profile Photo">
+
+  <h1>💜 Hi, I'm Priyanshi Gupta</h1>
+  <p>Java Developer | Full Stack Learner | Problem Solver</p>
+</div>
+
 ## Hi there 👋
 
  💫 About Me:
