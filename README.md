@@ -17,15 +17,43 @@
 
 ---
 
-## `// SYSTEM.INFO`
+## ## ⚡ 💜 `SYSTEM.INFO` 🟣
+
+<div align="center">
 
 <table>
-<tr><td><b>ROLE</b></td><td>Student Developer</td></tr>
-<tr><td><b>FOCUS</b></td><td>Java · Problem Solving · AI & Data Science</td></tr>
-<tr><td><b>CORE</b></td><td>Python · Java · MySQL</td></tr>
-<tr><td><b>STATUS</b></td><td>Learning, building, improving</td></tr>
-<tr><td><b>INTERESTS</b></td><td>Software Development · AI · Creative Tech</td></tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://img.shields.io/badge/%E2%96%A0_SYSTEM_STATUS-ONLINE-8A2BE2?style=for-the-badge&labelColor=090B18" alt="System status online"/>
+
+</td>
+</tr>
+<tr>
+<td><b>◈ ROLE</b></td>
+<td>Student Developer</td>
+</tr>
+<tr>
+<td><b>◈ FOCUS</b></td>
+<td>Java · Problem Solving · AI & Data Science</td>
+</tr>
+<tr>
+<td><b>◈ CORE</b></td>
+<td>Python · Java · MySQL</td>
+</tr>
+<tr>
+<td><b>◈ STATUS</b></td>
+<td>Learning, building, improving</td>
+</tr>
+<tr>
+<td><b>◈ INTERESTS</b></td>
+<td>Software Development · AI · Creative Tech</td>
+</tr>
 </table>
+
+<img src="https://img.shields.io/badge/END_OF_TRANSMISSION-CYAN-00E5FF?style=flat-square&labelColor=090B18" alt="End of transmission"/>
+
+</div>
 
 ## `// ABOUT_ME`
 
