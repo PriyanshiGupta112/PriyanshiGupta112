@@ -1,9 +1,15 @@
+
 <div align="center">
-  <img src="profile.png" width="180" alt="Priyanshi's Profile Photo">
+  <img src="profile.png" width="180" alt="Priyanshi's Profile Photo" />
 
   <h1>💜 Hi, I'm Priyanshi Gupta</h1>
-  <p>Java Developer | Full Stack Learner | Problem Solver</p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B266FF&center=true&vCenter=true&width=600&lines=Java+Developer+%E2%9C%A8;Full+Stack+Learner+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%9C"
+       alt="Typing SVG" />
+
+  <p>✨ Java Developer | Full Stack Learner | Problem Solver ✨</p>
 </div>
+```
 
 ## Hi there 👋
 
@@ -12,13 +18,32 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_priyanshi_1108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-gupta-92ab82362/)
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-B266FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_priyanshi_1108)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-gupta-92ab82362/)
+
+</div>
+```
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PriyanshiGupta112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PriyanshiGupta112&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PriyanshiGupta112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+![C](https://img.shields.io/badge/C-6A0DAD?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-B266FF?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6A0DAD?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+```
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=PriyanshiGupta112&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=PriyanshiGupta112&theme=midnight-purple&hide_border=true)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PriyanshiGupta112&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=PriyanshiGupta112&icon=0&color=0)](https://visitcount.itsvg.in)
