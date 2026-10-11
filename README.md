@@ -140,9 +140,9 @@ My coding journey through Java, Data Structures, Algorithms, and problem-solving
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priy anshiGupta112/Priy anshiGupta112/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priy anshiGupta112/Priy anshiGupta112/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Priy anshiGupta112/Priy anshiGupta112/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriyanshiGupta112/PriyanshiGupta112/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriyanshiGupta112/PriyanshiGupta112/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/PriyanshiGupta112/PriyanshiGupta112/output/github-snake.svg" width="100%">
 </picture>
 
 </div>
