@@ -120,6 +120,23 @@ My coding journey through Java, Data Structures, Algorithms, and problem-solving
 </div>
 
 ---
+## 💜 `LEETCODE.exe` — PROBLEM SOLVING
+
+<p align="center">
+  <a href="https://leetcode.com/u/eldritch_exe/">
+    <img src="https://img.shields.io/badge/LEETCODE-eldritch__exe-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/eldritch_exe/">
+    <img src="https://leetcard.jacoblin.cool/eldritch_exe?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Initializing next challenge... one problem at a time.</i>
+</p>
 
 ## 📊 `// GITHUB_STATS`
 
